@@ -1,0 +1,10 @@
+
+    #include <time.h>
+
+    srand (time(NULL));  // esta linea va al inicio de main
+    int aleatorio;
+   
+    aleatorio = rand()%(a + 1)+b; // esta linea va en la funcion que asigna el tiempo donde a es el maximo y b el minimo
+     
+  
+

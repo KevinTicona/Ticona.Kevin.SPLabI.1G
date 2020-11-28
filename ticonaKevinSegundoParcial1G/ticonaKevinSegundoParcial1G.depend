@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1606524559 source:c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	"parser.h"
+	"menu.h"
+	"paisesAfectados.h"
+
+1606519776 c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\linkedlist.h
+
+1606523255 c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\controller.h
+
+1606518921 c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\parser.h
+	"LinkedList.h"
+
+1606519067 c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\menu.h
+	"paisesAfectados.h"
+	"LinkedList.h"
+
+1606521679 c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\paisesafectados.h
+
+1606519776 source:c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606523727 source:c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"controller.h"
+	"paisesAfectados.h"
+	"menu.h"
+	"validaciones.h"
+
+1606525860 source:c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"paisesAfectados.h"
+	"LinkedList.h"
+
+1606525730 source:c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\paisesafectados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"paisesAfectados.h"
+	"validaciones.h"
+
+1606516234 c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\validaciones.h
+
+1606525409 source:c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"paisesAfectados.h"
+
+1606516234 source:c:\users\keni_\desktop\ticonakevinsegundoparcial1g\ticonakevinsegundoparcial1g\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+	"LinkedList.h"
+
